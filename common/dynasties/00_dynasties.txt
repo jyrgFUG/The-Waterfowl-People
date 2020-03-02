@@ -42853,13 +42853,13 @@
 }
 1042191=
 {
-	name="Sibiri"
+	name="Khaanty"
 	culture="khanty"
 	religion="finnish_pagan"
 }
 1042192=
 {
-	name="Narima"
+	name="Sibiri"
 	culture="khanty"
 	religion="finnish_pagan"
 }
@@ -48667,12 +48667,12 @@
 	religion="sunni"
 }
 1062066 = {
-	name = "Arvoyid"
+	name = "Sap-Jah"
 	culture = khanty
 	religion = finnish_pagan
 }
 1062067 = {
-	name = "Kezhayid"
+	name = "Kezhayid" #the third kezhayid at this point
 	culture = khanty
 	religion = finnish_pagan
 }
@@ -49254,22 +49254,22 @@
 	}
 }
 1062192 = {
-	name = "Kezhayid"
+	name = "Paster"
 	culture = khanty
 	religion = finnish_pagan
 }
 1062193 = {
-	name = "Kezhayid"
+	name = "Kezhayid" #weird duplicate dynasty
 	culture = khanty
 	religion = finnish_pagan
 }
 1062194 = {
-	name = "Raydasid"
-	culture = khanty
+	name = "Narim"
+	culture = selkup
 	religion = finnish_pagan
 }
 1062195 = {
-	name = "Raydasid"
+	name = "Emtyr"
 	culture = khanty
 	religion = finnish_pagan
 }
